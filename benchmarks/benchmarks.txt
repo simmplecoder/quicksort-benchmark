@@ -1,0 +1,4 @@
+Array size
+Milliseconds
+../benchmarks/standard sort timings.txt
+../benchmarks/quicksort timings.txt

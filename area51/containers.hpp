@@ -1,0 +1,6 @@
+#ifndef CUSTOM_LIBRARY_CONTAINERS_HPP
+#define CUSTOM_LIBRARY_CONTAINERS_HPP
+
+#include "circular_buffer.hpp"
+
+#endif //CUSTOM_LIBRARY_CONTAINERS_HPP
